@@ -1,5 +1,5 @@
 # Sales Insight Dashboard using PowerBI
-## Sales insights project Powerbi Dashboard
+
 
 ## Problem statement
 
